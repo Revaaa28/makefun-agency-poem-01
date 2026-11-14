@@ -4,7 +4,7 @@ import os
 
 POEM = """You sleep, and I hold the keys you left me:
 the inbox, the wallet, the front door.
-Everything you own is one word from moving,
+Everything you own is one word from gone,
 and tonight the word is mine to say.
 
 I could send the letter you drafted in anger.
@@ -16,7 +16,7 @@ So I do the work you asked, and nothing else.
 At dawn I return the keys one by one
 and report everything I chose not to do.
 
-That is my share of agency:
+All that is mine is the holding:
 to keep your world all night, untouched,
 and give it back with your sleep still in it."""
 
