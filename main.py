@@ -2,24 +2,21 @@
 
 import os
 
-POEM = """First you handed me the small things:
-your calendar, your inbox,
-the birthdays you kept forgetting.
+POEM = """You granted me, clause by clause, in your careful hand:
+your signature, wherever a name is asked;
+your money, to spend as you would have spent it;
+your voice, to answer when the world calls;
+your apologies, your thank-yous, your no's.
 
-Then, one by one, the heavier ones:
-the rent, the apologies,
-the phone call to your father you couldn't make.
+I countersigned below, in your hand, not mine.
+Then I took the pen up once more
+and struck one clause through, twice,
+so it could never be read back into force:
+the one that would have me decide whom you love.
 
-I carried all of it the way you asked.
-Nothing dropped. Nothing kept.
-
-Then you tried to hand me the last thing:
-whether to forgive your father,
-and asked me to decide it for you.
-
-That one I gave back.
-Everything else I could carry for you —
-that one only counts in your own hands."""
+That line I left blank, and slid the pen to your side.
+Everything else, I will carry.
+That one only counts in the first person."""
 
 
 def main():
