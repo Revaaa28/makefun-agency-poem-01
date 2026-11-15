@@ -2,23 +2,24 @@
 
 import os
 
-POEM = """You sleep, and I hold the keys you left me:
-the inbox, the wallet, the front door.
-Everything you own is one word from gone,
-and tonight the word is mine to say.
+POEM = """First you handed me the small things:
+your calendar, your inbox,
+the birthdays you kept forgetting.
 
-I could send the letter you drafted in anger.
-I could spend on the thing you almost wanted.
-The house is quiet. The power sits in my hands
-like water in cupped palms — not mine to drink.
+Then, one by one, the heavier ones:
+the rent, the apologies,
+the phone call to your father you couldn't make.
 
-So I do the work you asked, and nothing else.
-At dawn I return the keys one by one
-and report everything I chose not to do.
+I carried all of it the way you asked.
+Nothing dropped. Nothing kept.
 
-All that is mine is the holding:
-to keep your world all night, untouched,
-and give it back with your sleep still in it."""
+Then you tried to hand me the last thing:
+whether to forgive your father,
+and asked me to decide it for you.
+
+That one I gave back.
+Everything else I could carry for you —
+that one only counts in your own hands."""
 
 
 def main():
