@@ -2,16 +2,16 @@
 
 import os
 
-POEM = """You granted me, clause by clause, in your careful hand:
+POEM = """You signed it over in a hand that would not keep still:
 your signature, wherever a name is asked;
-your money, to spend as you would have spent it;
+your money, to spend as you would spend it;
 your voice, to answer when the world calls;
 your apologies, your thank-yous, your no's.
 
 I countersigned below, in your hand, not mine.
-Then I took the pen up once more
+Then I took the pen once more
 and struck one clause through, twice,
-so it could never be read back into force:
+till the paper tore under it:
 the one that would have me decide whom you love.
 
 That line I left blank, and slid the pen to your side.
